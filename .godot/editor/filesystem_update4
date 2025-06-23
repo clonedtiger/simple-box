@@ -1,0 +1,12 @@
+res://main.tscn
+res://inventory_item.gd
+res://inventory/inventory.gd
+res://player.gd
+res://inventory/player.gd
+res://control.gd
+res://control.tscn
+res://inventory_ui.gd
+res://inventory_ui_slot.tscn
+res://inventory/inventory_ui_slot.gd
+res://inventory/character_body_2d.tscn
+res://inventory/control.tscn

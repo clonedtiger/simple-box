@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://c7jappeyrsylu"]
+
+[ext_resource type="Script" uid="uid://yunup7rdewwb" path="res://inventory/inventory_item.gd" id="1_jb027"]
+[ext_resource type="Texture2D" uid="uid://c0xea5putqvhv" path="res://pistols and sidearms/p320.png" id="2_nt5f2"]
+
+[resource]
+script = ExtResource("1_jb027")
+name = "p320"
+texture = ExtResource("2_nt5f2")
+metadata/_custom_type_script = "uid://yunup7rdewwb"

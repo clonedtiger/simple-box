@@ -1,0 +1,43 @@
+[gd_scene load_steps=8 format=3 uid="uid://chh6gtnc4dqe3"]
+
+[ext_resource type="Script" uid="uid://xt2eqdh3d43p" path="res://inventory/player.gd" id="1_bv17p"]
+[ext_resource type="Script" uid="uid://yunup7rdewwb" path="res://inventory/inventory_item.gd" id="2_ab1k0"]
+[ext_resource type="Script" uid="uid://bp5bhy6it0wvw" path="res://inventory/inventory.gd" id="3_6jkdq"]
+[ext_resource type="PackedScene" uid="uid://b48al8y7so1tw" path="res://inventory/control.tscn" id="4_ab1k0"]
+
+[sub_resource type="Resource" id="Resource_mr8if"]
+script = ExtResource("3_6jkdq")
+items = Array[ExtResource("2_ab1k0")]([null, null, null, null, null, null, null, null, null])
+metadata/_custom_type_script = "uid://bp5bhy6it0wvw"
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_qnxmq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_drjrq"]
+size = Vector2(56, 50)
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+
+[node name="player" type="CharacterBody2D" parent="."]
+script = ExtResource("1_bv17p")
+inv = SubResource("Resource_mr8if")
+speed = 300.0
+
+[node name="Sprite2D" type="Sprite2D" parent="player"]
+visibility_layer = 512
+position = Vector2(155, 136)
+scale = Vector2(56, 50)
+texture = SubResource("PlaceholderTexture2D_qnxmq")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="player"]
+position = Vector2(155, 136)
+shape = SubResource("RectangleShape2D_drjrq")
+
+[node name="Camera2D" type="Camera2D" parent="player"]
+position = Vector2(132, 122)
+zoom = Vector2(3, 3)
+
+[node name="Control" parent="player" instance=ExtResource("4_ab1k0")]
+offset_left = 27.0
+offset_top = -120.0
+offset_right = 298.0
+offset_bottom = 107.0

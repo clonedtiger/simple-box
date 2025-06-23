@@ -1,0 +1,62 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750617535
+control.gd::GDScript::5200200683555206924::1750617923::0::1::::<>Control<><>0<>0<><>::
+control.tscn::PackedScene::4490043030637395988::1750617535::0::1::::<><><>0<>0<><>::uid://cgdassuknf0dk::::res://control.gd<>uid://u1yiq8rmnjl0::::res://UI inventory.png<>uid://lcy212j5lbck::::res://inventory_ui_slot.tscn
+examples.png::CompressedTexture2D/CompressedTexture2D::3245254250300045818::1750612294::1750612290::1::::<><><>0<>0<>352281d3c7e1bbda58344951227c5e92<>res://.godot/imported/examples.png-f360de25e86cac57522e8afd29a77b96.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::618955959733682753::1750588136::1750588172::1::::<><><>0<>0<>d420218f4f81b7e6610c28ab56697fc9<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+inventory.tscn::PackedScene/PackedScene::3638555317191407473::1750607249::0::1::::<><><>0<>0<><>::
+inventory_ui.gd::GDScript/GDScript::1160053990197697277::1750611290::0::1::::<>RefCounted<><>0<>0<><>::
+inventory_ui.tscn::PackedScene/PackedScene::4823515361334480348::1750610480::0::1::::<><><>0<>0<><>::
+inventory_ui_slot.tscn::PackedScene::777712867554568554::1750617535::0::1::::<><><>0<>0<><>::uid://2d6cyinqhtgd::::res://inventory/inventory_ui_slot.gd<>uid://u1yiq8rmnjl0::::res://UI inventory.png
+item_display.gd::GDScript/GDScript::8831158202200653634::1750614731::0::1::::<>Sprite2D<><>0<>0<><>::
+lab_tileset_LITE.png::CompressedTexture2D/CompressedTexture2D::9097443376175675871::1750589347::1750589347::1::::<><><>0<>0<>12f844c638892d957a2dca6db1a70ce9<>res://.godot/imported/lab_tileset_LITE.png-deea6281f717e7332ba7a48841374513.ctex::
+main.tscn::PackedScene::8626885212783753612::1750617535::0::1::::<><><>0<>0<><>::uid://d2u4tfecuibxn::::res://lab_tileset_LITE.png<>uid://chh6gtnc4dqe3::::res://inventory/character_body_2d.tscn
+p320.tres::Resource/Resource::7037491345641723146::1750608904::0::1::::<><><>0<>0<><>::uid://yunup7rdewwb::::res://inventory/inventory_item.gd<>uid://c0xea5putqvhv::::res://pistols and sidearms/p320.png
+player.gd::GDScript::4680473833260554144::1750616294::0::1::::<>RefCounted<><>0<>0<><>::
+UI inventory.png::CompressedTexture2D/CompressedTexture2D::1458923080684944187::1750612285::1750611491::1::::<><><>0<>0<>f855b2c48da36a834753e257a31e953e<>res://.godot/imported/UI inventory.png-f81bfef1c72d03212710ab31c5e6ee7b.ctex::
+::res://__MACOSX/::1750608302
+._icon.svg::CompressedTexture2D/CompressedTexture2D::4825623433716163996::1750588136::1750588172::0::::<><><>0<>0<>a89c8c9da0c925202d3baf00c1563ced<>::
+._main.tscn::PackedScene/PackedScene::-1::1750588136::0::1::::<><><>0<>0<><>::
+._player.gd::GDScript/GDScript::-1::1750588136::0::1::::<>RefCounted<><>0<>0<><>::
+::res://__MACOSX/new folder/::1750608302
+::res://guns/::1750608289
+::res://inventor/::1750615046
+::res://inventory/::1750617535
+inventory.gd::GDScript/GDScript::3501259197274703728::1750609455::0::1::::Inv<>Resource<><>0<>0<><>::
+inventory_item.gd::GDScript/GDScript::1726645677238622773::1750608626::0::1::::ivnt_item<>Resource<><>0<>0<><>::
+inventory_ui_slot.gd::GDScript::1903178983383801843::1750615201::0::1::::<>Panel<><>0<>0<><>::
+player.gd::GDScript/GDScript::1655213928345828019::1750610315::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player_inventory.tres::Resource/Inv::7249038821791158933::1750616037::0::1::::<><><>0<>0<><>::uid://yunup7rdewwb::::res://inventory/inventory_item.gd<>uid://bp5bhy6it0wvw::::res://inventory/inventory.gd
+character_body_2d.tscn::PackedScene::5280507876825908300::1750617923::0::1::::<><><>0<>0<><>::uid://xt2eqdh3d43p::::res://inventory/player.gd<>uid://yunup7rdewwb::::res://inventory/inventory_item.gd<>uid://bp5bhy6it0wvw::::res://inventory/inventory.gd<>uid://b48al8y7so1tw::::res://control.tscn
+::res://pistols and sidearms/::1750607113
+chippa rhino.png::CompressedTexture2D/CompressedTexture2D::1736696897331465186::1750606570::1750606570::1::::<><><>0<>0<>0c10dbc46eeac60207ba547f9512ab6f<>res://.godot/imported/chippa rhino.png-38d19db4f222150f1c9087f3c49592bc.ctex::
+deagle with laser sight.png::CompressedTexture2D/CompressedTexture2D::568050392173937789::1750606570::1750606570::1::::<><><>0<>0<>76e99993806c83a7b56020480921b938<>res://.godot/imported/deagle with laser sight.png-901bc13fb6e83f4810b8d8d0c4082569.ctex::
+deagle.png::CompressedTexture2D/CompressedTexture2D::8467119192129708326::1750606570::1750606570::1::::<><><>0<>0<>b4506b1a0c26d3226cfe6290039f2a7f<>res://.godot/imported/deagle.png-4b539264f5fc2cf225dda2f59d8821d0.ctex::
+G18 tac.png::CompressedTexture2D/CompressedTexture2D::4616933220635386188::1750606570::1750606570::1::::<><><>0<>0<>6529cdcc31a30c1071f4287654261f93<>res://.godot/imported/G18 tac.png-ab30cc09274aabde92e5690006390553.ctex::
+Gerf foam blaster.png::CompressedTexture2D/CompressedTexture2D::1693337090716445012::1750606570::1750606570::1::::<><><>0<>0<>ca0dd40a8b2755f164445a9f1fb40bb3<>res://.godot/imported/Gerf foam blaster.png-93fb0551ab8dac15d130573c1194cef5.ctex::
+Glock18 silenced.png::CompressedTexture2D/CompressedTexture2D::5066296870250671268::1750606570::1750606570::1::::<><><>0<>0<>926cb6900cee27f3b28ca4476e0c9a4f<>res://.godot/imported/Glock18 silenced.png-0c7e59f880b4bb90970b70bdd3450c00.ctex::
+Glock18.png::CompressedTexture2D/CompressedTexture2D::4469043611393639791::1750606570::1750606570::1::::<><><>0<>0<>9516002bc5ab1df96419f31da7a2b8b7<>res://.godot/imported/Glock18.png-88b67fb8115078b22f1090f23b2dd911.ctex::
+p320.png::CompressedTexture2D/CompressedTexture2D::6575287614458775239::1750606570::1750606570::1::::<><><>0<>0<>4ce578e84bcc7ae8f2a1c50dff1803c1<>res://.godot/imported/p320.png-1890208084dd58e1271426ddc39fbf2c.ctex::
+PPG 22.png::CompressedTexture2D/CompressedTexture2D::4820527555428441707::1750606570::1750606570::1::::<><><>0<>0<>85a150cf2da90514689b481babcda11b<>res://.godot/imported/PPG 22.png-ac5041969b288c4d9219b5017dfa7edd.ctex::
+silenced auto pistol.png::CompressedTexture2D/CompressedTexture2D::5806177082252004576::1750606570::1750606570::1::::<><><>0<>0<>81dbdf04f75feecb29022a6503fe4cc2<>res://.godot/imported/silenced auto pistol.png-404e8670ae85987d1f2f85f539aacd15.ctex::
+very super tactical chippa rhino.png::CompressedTexture2D/CompressedTexture2D::2272953912103815841::1750606570::1750606570::1::::<><><>0<>0<>82fee2ed5002146346d2060438721fd1<>res://.godot/imported/very super tactical chippa rhino.png-563240120f9be0c33bd5f995d93da32b.ctex::
+::res://pistols and sidearms/SMGs and assault rifles/::1750608326
+ACR.png::CompressedTexture2D/CompressedTexture2D::7782129979451062563::1750607113::1750607114::1::::<><><>0<>0<>d399b0bb40fc07d56c24cc62728e1718<>res://.godot/imported/ACR.png-366899c5e5c81f8793482d80ac699172.ctex::
+AUG.png::CompressedTexture2D/CompressedTexture2D::4658011654889139043::1750607113::1750607114::1::::<><><>0<>0<>72cbf80b24a566fb6527d15067d867e8<>res://.godot/imported/AUG.png-851398b1b65da9e4a20fe330f281f3ab.ctex::
+PPG laser rifle.png::CompressedTexture2D/CompressedTexture2D::3820776376126280568::1750607113::1750607114::1::::<><><>0<>0<>bf7b439c3a1ec559301103716bb35f3a<>res://.godot/imported/PPG laser rifle.png-147da20a36a738e53a8625b7cd19554f.ctex::
+PPsh 41.png::CompressedTexture2D/CompressedTexture2D::6921594609483237680::1750607113::1750607114::1::::<><><>0<>0<>bdca2704c3e159d2beadc40ecb7d6125<>res://.godot/imported/PPsh 41.png-21d033b30b8f6ea9b2a9f5ba118fe3f4.ctex::
+TMP machine pistol.png::CompressedTexture2D/CompressedTexture2D::4165727531526555978::1750607113::1750607114::1::::<><><>0<>0<>a7a3755dbd09707aa9bc75f11c84335b<>res://.godot/imported/TMP machine pistol.png-1c1801dada5648dbb9fa5a6e837112d2.ctex::
+::res://shotguns and shotgun variation weapons/::1750607111
+KS23 4 gauge.png::CompressedTexture2D/CompressedTexture2D::6230885025873538552::1750607111::1750606558::1::::<><><>0<>0<>cf3368c30655e8f3b69fa3619560da0b<>res://.godot/imported/KS23 4 gauge.png-82463bfacd3097607c2c9370f4e1b595.ctex::
+winchester.png::CompressedTexture2D/CompressedTexture2D::5814014152096670055::1750607111::1750606558::1::::<><><>0<>0<>0cbadb8b775cd68a1a55c9d7b0eb3445<>res://.godot/imported/winchester.png-bf55d4dd2a8807ce8d7a78881f2dff22.ctex::
+::res://shotguns and shotgun variation weapons/pistols and sidearms/::1750607087
+chippa rhino.png::CompressedTexture2D/CompressedTexture2D::8377690034489914624::1750606565::1750606565::1::::<><><>0<>0<>0d1217b8abf0730c1aba3b354596c37f<>res://.godot/imported/chippa rhino.png-efbbb8b748f3de5857f9f8acce5129dc.ctex::
+deagle.png::CompressedTexture2D/CompressedTexture2D::5057390389374290189::1750606565::1750606565::1::::<><><>0<>0<>ac027449fcef7e47f6cf1fe4cc10b396<>res://.godot/imported/deagle.png-32790840f2bf2b30895792c503ebfa88.ctex::
+G18 tac.png::CompressedTexture2D/CompressedTexture2D::2916335007198510817::1750606565::1750606565::1::::<><><>0<>0<>6fc5a6e7c4c3b3a96d7da98686df95a9<>res://.godot/imported/G18 tac.png-8490b5a7bd443e8f387f2d98a505340a.ctex::
+Gerf foam blaster.png::CompressedTexture2D/CompressedTexture2D::7947279873593686596::1750606565::1750606565::1::::<><><>0<>0<>001f9e7b9637ffb0eadc3cf87a1bba63<>res://.godot/imported/Gerf foam blaster.png-a99b66c3e4d4b89567c04ac592123918.ctex::
+Glock18 silenced.png::CompressedTexture2D/CompressedTexture2D::53893511963887266::1750606565::1750606565::1::::<><><>0<>0<>96e58d8ba767df2523f76bf7591056b2<>res://.godot/imported/Glock18 silenced.png-f639c141a78777e4a58897d0170f5211.ctex::
+Glock18.png::CompressedTexture2D/CompressedTexture2D::6104322689111793481::1750606565::1750606565::1::::<><><>0<>0<>2120e7763149b18e940e99d047a8af51<>res://.godot/imported/Glock18.png-03cbbc78cd1e03aeef22ada3e7e33ced.ctex::
+p320.png::CompressedTexture2D/CompressedTexture2D::9124874405100814671::1750606565::1750606565::1::::<><><>0<>0<>229bfa8708a3a29cd33bf57375b86cee<>res://.godot/imported/p320.png-8c1f0ed93daf76766d29ccdf9eb74122.ctex::
+PPG 22.png::CompressedTexture2D/CompressedTexture2D::2749672486643328702::1750606565::1750606565::1::::<><><>0<>0<>342aed16c97a7d97c7f8704af68772e0<>res://.godot/imported/PPG 22.png-7c2a6b849c33117e9a16da21692d3c50.ctex::
+silenced auto pistol.png::CompressedTexture2D/CompressedTexture2D::810676546032436848::1750606565::1750606565::1::::<><><>0<>0<>10815efec364898eccf5937628abea5e<>res://.godot/imported/silenced auto pistol.png-cb36acdb3cae6813e722177293ad8c99.ctex::
+very super tactical chippa rhino.png::CompressedTexture2D/CompressedTexture2D::5793370548367489976::1750606565::1750606565::1::::<><><>0<>0<>cf27b0da2e0a2a93423ed02d182bd6bb<>res://.godot/imported/very super tactical chippa rhino.png-45ab7c7c981b9a3d6f965749fbc34eef.ctex::
